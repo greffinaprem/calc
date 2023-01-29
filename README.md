@@ -157,3 +157,4 @@ for (item of buttons) {
 
 ## RESULT:
 
+The program for designing a simple calcaulator using Javescript is executed successfully.
