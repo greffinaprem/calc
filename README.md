@@ -152,7 +152,7 @@ for (item of buttons) {
 
 ```
 ## OUTPUT:
-![image](https://user-images.githubusercontent.com/119475603/215312110-fade36be-4dcc-4b6e-8102-1f6a4aacc331.png)
+![calcout](https://user-images.githubusercontent.com/119475603/215312172-902ea9fa-32e9-40ed-ab5f-63a6ee031d78.png)
 
 
 ## RESULT:
